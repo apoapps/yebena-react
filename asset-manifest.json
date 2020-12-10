@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/yebena-react/static/css/main.9a106b2c.chunk.css",
-    "main.js": "/yebena-react/static/js/main.4ebf7edb.chunk.js",
-    "main.js.map": "/yebena-react/static/js/main.4ebf7edb.chunk.js.map",
+    "main.css": "/yebena-react/static/css/main.fb441fb6.chunk.css",
+    "main.js": "/yebena-react/static/js/main.776d1817.chunk.js",
+    "main.js.map": "/yebena-react/static/js/main.776d1817.chunk.js.map",
     "runtime-main.js": "/yebena-react/static/js/runtime-main.cf62c9a6.js",
     "runtime-main.js.map": "/yebena-react/static/js/runtime-main.cf62c9a6.js.map",
     "static/css/2.32e235a8.chunk.css": "/yebena-react/static/css/2.32e235a8.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.43311a4c.chunk.js.map": "/yebena-react/static/js/3.43311a4c.chunk.js.map",
     "index.html": "/yebena-react/index.html",
     "static/css/2.32e235a8.chunk.css.map": "/yebena-react/static/css/2.32e235a8.chunk.css.map",
-    "static/css/main.9a106b2c.chunk.css.map": "/yebena-react/static/css/main.9a106b2c.chunk.css.map",
+    "static/css/main.fb441fb6.chunk.css.map": "/yebena-react/static/css/main.fb441fb6.chunk.css.map",
     "static/js/2.0b83b77c.chunk.js.LICENSE.txt": "/yebena-react/static/js/2.0b83b77c.chunk.js.LICENSE.txt",
     "static/media/yebena-blanco.7c505268.png": "/yebena-react/static/media/yebena-blanco.7c505268.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.cf62c9a6.js",
     "static/css/2.32e235a8.chunk.css",
     "static/js/2.0b83b77c.chunk.js",
-    "static/css/main.9a106b2c.chunk.css",
-    "static/js/main.4ebf7edb.chunk.js"
+    "static/css/main.fb441fb6.chunk.css",
+    "static/js/main.776d1817.chunk.js"
   ]
 }
