@@ -1,23 +1,25 @@
 import logo from ".././assets/yebena-blanco.png";
 
 //styles
-import './styles/Navbar.css'
+import "./styles/Navbar.css";
 
 export default function Navbar() {
   return (
     <div className="navbar navbar-expand-lg navbar-dark bg-primary">
-      <div className="navbar-brand">
       <img
+        className="navbar-brand"
         src={logo}
         alt="logo"
         width="80px"
-        height="80px"
+        height="90px"
       />
-      <h1 className="title">Menu</h1>
-      </div>
 
       <div className="collapse navbar-collapse" id="navbarColor01">
-
+        <ul className="navbar-nav mr-auto">
+        <li className="nav-item active">
+          <h1 className="title nav-link">Menu</h1>
+        </li>
+        </ul>
       </div>
 
       <button

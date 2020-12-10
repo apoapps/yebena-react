@@ -6,8 +6,7 @@ export default function MenuPage(props) {
   const items = props.items;
   return (
     <div className="container main">
-      <div className="row">
-        <div className="col-12 col-md-6">
+      <div className="row ">
           {items.map((item) => {
             return (
               <MenuCard
@@ -20,7 +19,6 @@ export default function MenuPage(props) {
               />
             );
           })}
-        </div>
       </div>
     </div>
   );

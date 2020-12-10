@@ -2,16 +2,16 @@ import React from "react";
 
 export default function MenuCard(props) {
   return (
-    <div className="card">
+    <div className="card col-sm-12 col-md-6 col-lg">
       <img src={props.imgURL} className="card-img-top" alt="menu" />
 
       <div className="card-body">
-        <div className="card-title">{props.title}</div>
+        <h1 className="card-title">{props.title}</h1>
         <div className="card-description">
           <div className="">Precio: ${props.price} </div>
           {props.isCombo ? (
-            <div >
-              <h1> Incluye:</h1>
+            <div>
+              <h4> Incluye:</h4>
               <ul className="list-group">
                 
                 {props.sides.map((side) => {
