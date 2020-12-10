@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Pages/styles/MenuPage.css","webpack://src/Components/styles/Navbar.css"],"names":[],"mappings":"AAAA,MACI,YACJ,CCFA,OACI,UACJ","file":"main.9a106b2c.chunk.css","sourcesContent":[".main{\n    padding: 10px;\n}",".title{\n    color: white;\n}"]}
