@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/yebena-react/static/css/main.fb441fb6.chunk.css",
-    "main.js": "/yebena-react/static/js/main.776d1817.chunk.js",
-    "main.js.map": "/yebena-react/static/js/main.776d1817.chunk.js.map",
-    "runtime-main.js": "/yebena-react/static/js/runtime-main.cf62c9a6.js",
-    "runtime-main.js.map": "/yebena-react/static/js/runtime-main.cf62c9a6.js.map",
+    "main.js": "/yebena-react/static/js/main.cc609f71.chunk.js",
+    "main.js.map": "/yebena-react/static/js/main.cc609f71.chunk.js.map",
+    "runtime-main.js": "/yebena-react/static/js/runtime-main.8ed2da0a.js",
+    "runtime-main.js.map": "/yebena-react/static/js/runtime-main.8ed2da0a.js.map",
     "static/css/2.32e235a8.chunk.css": "/yebena-react/static/css/2.32e235a8.chunk.css",
-    "static/js/2.0b83b77c.chunk.js": "/yebena-react/static/js/2.0b83b77c.chunk.js",
-    "static/js/2.0b83b77c.chunk.js.map": "/yebena-react/static/js/2.0b83b77c.chunk.js.map",
-    "static/js/3.43311a4c.chunk.js": "/yebena-react/static/js/3.43311a4c.chunk.js",
-    "static/js/3.43311a4c.chunk.js.map": "/yebena-react/static/js/3.43311a4c.chunk.js.map",
+    "static/js/2.cc8a429a.chunk.js": "/yebena-react/static/js/2.cc8a429a.chunk.js",
+    "static/js/2.cc8a429a.chunk.js.map": "/yebena-react/static/js/2.cc8a429a.chunk.js.map",
+    "static/js/3.95802758.chunk.js": "/yebena-react/static/js/3.95802758.chunk.js",
+    "static/js/3.95802758.chunk.js.map": "/yebena-react/static/js/3.95802758.chunk.js.map",
     "index.html": "/yebena-react/index.html",
     "static/css/2.32e235a8.chunk.css.map": "/yebena-react/static/css/2.32e235a8.chunk.css.map",
     "static/css/main.fb441fb6.chunk.css.map": "/yebena-react/static/css/main.fb441fb6.chunk.css.map",
-    "static/js/2.0b83b77c.chunk.js.LICENSE.txt": "/yebena-react/static/js/2.0b83b77c.chunk.js.LICENSE.txt",
+    "static/js/2.cc8a429a.chunk.js.LICENSE.txt": "/yebena-react/static/js/2.cc8a429a.chunk.js.LICENSE.txt",
     "static/media/yebena-blanco.7c505268.png": "/yebena-react/static/media/yebena-blanco.7c505268.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf62c9a6.js",
+    "static/js/runtime-main.8ed2da0a.js",
     "static/css/2.32e235a8.chunk.css",
-    "static/js/2.0b83b77c.chunk.js",
+    "static/js/2.cc8a429a.chunk.js",
     "static/css/main.fb441fb6.chunk.css",
-    "static/js/main.776d1817.chunk.js"
+    "static/js/main.cc609f71.chunk.js"
   ]
 }
