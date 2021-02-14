@@ -33,6 +33,10 @@ export default function HomePage (){
                     title='Paletas'
                     url='/paletas'
                 />
+                <SelectionCard
+                    title='Combos'
+                    url='/combos'
+                />
             </div>
         </div>
     );
