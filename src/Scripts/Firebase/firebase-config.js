@@ -1,9 +1,9 @@
-import firebase from "firebase/app";
+import  firebase from "firebase";
 import "firebase/firestore";
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-var firebaseConfig = {
+const firebaseConfig = {
   apiKey: "AIzaSyCkJw4zaaskIiJ7AlLK5sXX0DMnJGNeWCI",
   authDomain: "almacen-y-pedidos-ybn.firebaseapp.com",
   databaseURL: "https://almacen-y-pedidos-ybn.firebaseio.com",
