@@ -1,8 +1,10 @@
 import "bootswatch/dist/lux/bootstrap.min.css";
 
+
 import MenuLogic from './Scripts/logic-components/MenuLogic.js';
 import Navbar from './Components/Navbar';
 import HomePage from './Pages/HomePage.jsx';
+import PngMenu from './Pages/PngMenu.jsx'; 
 
 import { Switch, Route, HashRouter as Router} from 'react-router-dom';
 
@@ -15,12 +17,15 @@ function App() {
         <Navbar/>
       </header>
       <Switch>
-        <Route exact path ='/' component={HomePage}>
-          <HomePage/>
+        <Route exact path ='/' component={PngMenu}>
+          <PngMenu/>
         </Route>
 
 
         {/* PAGINAS DEL MENU */}
+        <Route exact path ='/menu' component={PngMenu}>
+          <PngMenu/>
+        </Route>
         <Route exact path ='/sandwiches' component={MenuLogic}>
           <MenuLogic dbName='sandwiches'/>
         </Route>
