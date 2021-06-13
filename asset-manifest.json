@@ -1,26 +1,30 @@
 {
   "files": {
     "main.css": "/yebena-react/static/css/main.fb441fb6.chunk.css",
-    "main.js": "/yebena-react/static/js/main.09f01cbc.chunk.js",
-    "main.js.map": "/yebena-react/static/js/main.09f01cbc.chunk.js.map",
-    "runtime-main.js": "/yebena-react/static/js/runtime-main.50fcac2f.js",
-    "runtime-main.js.map": "/yebena-react/static/js/runtime-main.50fcac2f.js.map",
+    "main.js": "/yebena-react/static/js/main.95b3ed98.chunk.js",
+    "main.js.map": "/yebena-react/static/js/main.95b3ed98.chunk.js.map",
+    "runtime-main.js": "/yebena-react/static/js/runtime-main.a72b378c.js",
+    "runtime-main.js.map": "/yebena-react/static/js/runtime-main.a72b378c.js.map",
     "static/css/2.ea2bd504.chunk.css": "/yebena-react/static/css/2.ea2bd504.chunk.css",
-    "static/js/2.9267e1f9.chunk.js": "/yebena-react/static/js/2.9267e1f9.chunk.js",
-    "static/js/2.9267e1f9.chunk.js.map": "/yebena-react/static/js/2.9267e1f9.chunk.js.map",
-    "static/js/3.885c1a0b.chunk.js": "/yebena-react/static/js/3.885c1a0b.chunk.js",
-    "static/js/3.885c1a0b.chunk.js.map": "/yebena-react/static/js/3.885c1a0b.chunk.js.map",
+    "static/js/2.8d700dd6.chunk.js": "/yebena-react/static/js/2.8d700dd6.chunk.js",
+    "static/js/2.8d700dd6.chunk.js.map": "/yebena-react/static/js/2.8d700dd6.chunk.js.map",
+    "static/js/3.3bab663f.chunk.js": "/yebena-react/static/js/3.3bab663f.chunk.js",
+    "static/js/3.3bab663f.chunk.js.map": "/yebena-react/static/js/3.3bab663f.chunk.js.map",
     "index.html": "/yebena-react/index.html",
     "static/css/2.ea2bd504.chunk.css.map": "/yebena-react/static/css/2.ea2bd504.chunk.css.map",
     "static/css/main.fb441fb6.chunk.css.map": "/yebena-react/static/css/main.fb441fb6.chunk.css.map",
-    "static/js/2.9267e1f9.chunk.js.LICENSE.txt": "/yebena-react/static/js/2.9267e1f9.chunk.js.LICENSE.txt",
+    "static/js/2.8d700dd6.chunk.js.LICENSE.txt": "/yebena-react/static/js/2.8d700dd6.chunk.js.LICENSE.txt",
+    "static/media/nieves.bd005472.jpg": "/yebena-react/static/media/nieves.bd005472.jpg",
+    "static/media/paletas.da39dac4.jpg": "/yebena-react/static/media/paletas.da39dac4.jpg",
+    "static/media/raspados.24f4d0ca.jpg": "/yebena-react/static/media/raspados.24f4d0ca.jpg",
+    "static/media/snacks.252be816.jpg": "/yebena-react/static/media/snacks.252be816.jpg",
     "static/media/yebena-blanco.7c505268.png": "/yebena-react/static/media/yebena-blanco.7c505268.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.50fcac2f.js",
+    "static/js/runtime-main.a72b378c.js",
     "static/css/2.ea2bd504.chunk.css",
-    "static/js/2.9267e1f9.chunk.js",
+    "static/js/2.8d700dd6.chunk.js",
     "static/css/main.fb441fb6.chunk.css",
-    "static/js/main.09f01cbc.chunk.js"
+    "static/js/main.95b3ed98.chunk.js"
   ]
 }
